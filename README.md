@@ -1,2 +1,2 @@
 # DriveIconMaster
-Change the icons of disks displayed in Windows Explorer
+Change the icons of disks displayed in Windows Explorer.
