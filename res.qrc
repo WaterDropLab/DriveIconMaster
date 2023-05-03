@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>res/refresh.ico</file>
+        <file>res/arrow.ico</file>
+    </qresource>
+    <qresource prefix="/logos">
+        <file>res/logo.ico</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>res/start.bmp</file>
+    </qresource>
+    <qresource prefix="/commonIcons">
+        <file>res/imageres.dll(35).ico</file>
+        <file>res/imageres.dll(36).ico</file>
+    </qresource>
+</RCC>

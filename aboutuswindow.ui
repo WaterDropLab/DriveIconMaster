@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutUsWindow</class>
+ <widget class="QMainWindow" name="AboutUsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>661</width>
+    <height>539</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>关于我们</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="res.qrc">
+    <normaloff>:/logos/res/logo.ico</normaloff>:/logos/res/logo.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>681</width>
+      <height>591</height>
+     </rect>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;title&gt;关于水滴软件实验室
+&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:9pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#ffffff&quot;&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;成立时间：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年3月&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织历史：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年3月，水滴软件实验室正式成立。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年3月，王克硕和谈致远正式成为该组织的成员。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年3月，QQ群&amp;quot;水滴软件实验室&amp;quot;创建。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年3月，成员王克硕为该组织的群聊替换图标，从此，该组织的图标正式确定。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年4月，因组员程旭的QQ被注销，QQ群&amp;quot;水滴软件实验室&amp;quot;解散。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2020年5月1日，该组织的第一个软件&amp;quot;PowerSettings V.5.0.0&amp;quot;完工。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2021年9月1日，因升学等原因，该组织由&amp;quot;安徽省天长市实验中学&amp;quot;迁址至&amp;quot;安徽省天长中学&amp;quot;，王克硕仍为该组织成员之一。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;2022年7月14日,李家乐正式成为该组织的成员。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;现有成员：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;程旭 王克硕 谈致远 李家乐 崇李浩轩&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织的主要活动：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;计算机软件设计、图片设计、文字编辑、计算机病毒试验、网页开发、高级编程语言学习与讨论(Visual Basic、Python、Visual C++、C++、HTML、PHP、JavaScript、Visual Basic Script...)、Windows操作系统的探索、批处理脚本的开发、高质量软件的收集...&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织的主要需求：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;成员计算机知识的不断丰富。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;计算机大佬们的加入(有兴趣的请和安徽天长中学2021级13班的程旭联系) 。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织的软件及脚本：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;PowerSetting(已更新至V.9.3.0 正式版) 、磁盘修复(已更新至V.1.0.0) 、定时关机 (已更新至V.2.0.0) 、e-Learning Class Password Master(V.1.0.0)、高级命令(V.2.0 DOS脚本版)、Pcfly病毒(V.2.0 文件夹伪装者) 、计算机(病毒V.1.0)、Emoji Viewer(V.1.0 网页版)...&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织成就：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;PowerSettings在班班通上运行，受到多位老师的欢迎。(考试倒计时软件，可设置时间，还有其它附加功能，能不受欢迎吗？)&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;Pcfly病毒成功感染老师U盘及伪装成文件夹、修改系统注册表。&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;&amp;quot;计算机&amp;quot; 病毒:该病毒在组员初中时成功报复一位不讲理的语文教师，即伪装成桌面上的 &amp;quot;计算机&amp;quot;，该教师双击 &amp;quot;计算机&amp;quot;，病毒不断弹出对话框，10秒五百多个，大快人心。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;成员义务：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;帮助有困难的组员、为组织的软件设计作贡献、积极参加该组织的活动、热爱信息技术、丰富自己的计算机知识...&lt;/span&gt;&lt;/p&gt;
+&lt;h2 style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;组织口号：&lt;/span&gt;&lt;/h2&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; color:#000000;&quot;&gt;滴水穿石 磨杵成针&lt;/span&gt;&lt;/p&gt;
+&lt;h2 align=&quot;right&quot; style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;水滴软件实验室&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 align=&quot;right&quot; style=&quot; margin-top:16px; margin-bottom:12px; margin-left:10px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Microsoft YaHei'; font-size:11pt; font-weight:600; color:#199dff;&quot;&gt;2022年7月15日&lt;/span&gt;&lt;/h2&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>661</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

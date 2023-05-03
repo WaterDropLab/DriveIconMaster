@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>UpDateLogWindow</class>
+ <widget class="QDialog" name="UpDateLogWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>401</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>更新日志</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:white;</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>401</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>微软雅黑</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="plainText">
+    <string>最终版：
+ 1.修复已知BUG；
+ 2.增加了组合框图标显示；
+ 3.增加选择文件后显示选择的图标；
+ 4.进行了界面的美化。
+ 5.引用了Axialis公司的Icon WorkShop软件，Icon WorkShop版权归Axialis公司所有。
+</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btndef">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>250</y>
+     <width>81</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Microsoft YaHei</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{border-radius:13px;
+
+background-color:rgb(0, 170, 255)
+;color:white;}
+QPushButton::pressed
+{
+background-color:rgb(73, 112, 255);
+}
+
+</string>
+   </property>
+   <property name="text">
+    <string>确定</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>btndef</sender>
+   <signal>clicked()</signal>
+   <receiver>UpDateLogWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>350</x>
+     <y>270</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>200</x>
+     <y>149</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
